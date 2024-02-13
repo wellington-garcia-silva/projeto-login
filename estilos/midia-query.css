@@ -23,7 +23,7 @@
 
 @media screen and (min-width: 992px){
     section#login{
-        width: 950vw;
+        width: 500vw;
     }
 
     section#login > div#imagem{
